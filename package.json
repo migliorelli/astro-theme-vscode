@@ -1,9 +1,9 @@
 {
-  "name": "astrotheme",
-  "displayName": "AstroTheme",
+  "name": "astronvimtheme",
+  "displayName": "AstroNvim Theme",
   "description": "AstroNvim AstroTheme palettes for VS Code and Cursor (AstroDark, AstroLight, AstroMars, AstroJupiter).",
-  "version": "0.1.0",
-  "publisher": "astrotheme",
+  "version": "1.0.1",
+  "publisher": "migliorelli",
   "icon": "icon.png",
   "license": "GPL-3.0-only",
   "engines": {
